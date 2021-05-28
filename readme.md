@@ -1,4 +1,4 @@
-#Introduction
+#Introduction  
 Idea of this project is about to trying to predict stock price by using Recurrent Neural Network and Machine Learning.  
 This project is only about Python programming using financial data.  
 Source from: https://www.youtube.com/watch?v=PuZY9q-aKLw&list=WL&index=145&t=447s
